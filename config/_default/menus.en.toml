@@ -12,18 +12,18 @@
 
 [[main]]
   name = "Resume"
-  pageRef = "posts"
+  pageRef = "resume"
   weight = 10
 
 [[main]]
   name = "Projects"
-  pageRef = "categories"
+  pageRef = "projects"
   weight = 20
 
-[[main]]
-  name = "About"
-  pageRef = "tags"
-  weight = 30
+#[[main]]
+#  name = "About"
+##  pageRef = "about"
+#  weight = 30
 
 [[main]]
   identifier = "search"
