@@ -63,6 +63,8 @@ Blending two images together using the laplacian of the target image and computi
 |-|-|
 |!["Img A"](./media/meadow_background.jpg)|!["Img B"](./media/meadow_sheep.jpg)|
 
+### Results
+
 !["Result img"](./media/poisson_blending.png)
 
 ## &#127912; Generating Art using Particle Tracing
