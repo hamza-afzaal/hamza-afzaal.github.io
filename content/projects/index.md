@@ -57,7 +57,13 @@ A project for procedurally generating surfaces by variating samples from 2D Gaus
 
 ## &#128444; Poisson Image Blending [[github]](https://github.com/hamza-afzaal/PoissonSolver)
 
+Blending two images together using the laplacian of the target image and computing intensities of the targeted region with a system of linear equations. 
 
+| | |
+|-|-|
+|!["Img A"](./media/meadow_background.jpg)|!["Img B"](./media/meadow_sheep.jpg)|
+
+!["Result img"](./media/poisson_blending.png)
 
 ## &#127912; Generating Art using Particle Tracing
 
